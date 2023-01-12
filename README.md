@@ -1,2 +1,1 @@
-# PerpCourse-Henry
-Repositorio de prueba de modulo2 de precourse de Henry
+Este proyecto es una prueba de repositorio
